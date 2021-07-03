@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a engineer
-- 🔭 Worked on various frontend and backend project using React,React Native, Flask ,Nodejs ,Firebase,MongoDb
+- 🔭 Working on various frontend and backend project using React,React Native, Flask ,Nodejs ,Firebase,MongoDb
 - 🌱 Learning development concepts in depth
 <br>
 
