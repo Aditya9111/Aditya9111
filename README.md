@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a engineer
+
 - 🔭 Working on various frontend and backend project using React,React Native, Flask ,Nodejs ,Firebase,MongoDb
 - 🌱 Learning development concepts in depth
 <br>
