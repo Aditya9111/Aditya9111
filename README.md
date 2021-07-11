@@ -27,6 +27,6 @@
 
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Aditya9111&theme=nord)
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=Aditya9111&theme=nord) -->
 
 
